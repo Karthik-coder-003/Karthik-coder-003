@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I’m passionate about coding, solving problems, a
 - In my free time, I enjoy learning new programming languages and experimenting with new tech stacks.
 
 ## 📖 Latest Projects:
-- [Twitter Analysis ]([Link to project](https://github.com/Karthik-coder-003/Twitter_Analysis)) - ata transformation and visualization using pandas, seaborn, and wordcloud. Text analysis and preprocessing with NLTK and regular expressions. Implementation of logistic regression and XGBoost models for sentiment classification. Evaluation of model performance using accuracy metrics. Insights into sentiment trends across different brands.
-- [Ambulance Detection YOLOV8]([Link to project](https://github.com/Karthik-coder-003/Ambulance-Detection-YOLOv8)) - The model is trained using the YOLOv8 architecture to detect ambulances in various scenarios. It achieves high accuracy on both close-up and distant views of ambulances.
+- Twitter Analysis ([Link to project](https://github.com/Karthik-coder-003/Twitter_Analysis)) - ata transformation and visualization using pandas, seaborn, and wordcloud. Text analysis and preprocessing with NLTK and regular expressions. Implementation of logistic regression and XGBoost models for sentiment classification. Evaluation of model performance using accuracy metrics. Insights into sentiment trends across different brands.
+- Ambulance Detection YOLOV8([Link to project](https://github.com/Karthik-coder-003/Ambulance-Detection-YOLOv8)) - The model is trained using the YOLOv8 architecture to detect ambulances in various scenarios. It achieves high accuracy on both close-up and distant views of ambulances.
 
 ---
 
